@@ -1,0 +1,41 @@
+csp,param_name,value
+Actif,lambda_hunger,0.1286700302000042
+Actif,lambda_shop,0.0063244375661679
+Actif,lambda_leisure,0.0315385113353773
+Actif,stay_on_site_work_hunger,4.888072639881374
+Actif,stay_on_site_work_shop,4.664043096231342
+Actif,stay_on_site_work_leisure,4.425980378066618
+Actif,midday_home_lunch_utility,2.878612312514372
+Actif,hunger_shop_penalty,2.0911255078610416
+Actif,lunch_duration_mean_min,72.0
+Actif,onsite_lunch_duration_mean_min,55.0
+Actif,prob_worker_afternoon_shift,0.065
+Actif,work_dep_mean_hour,7.42
+Actif,work_dep_std_hour,0.68
+Actif,work_duration_lognormal_mu,6.213
+Actif,work_duration_lognormal_sigma,0.212
+Etudiant ou eleve,lambda_hunger,0.1415330923136716
+Etudiant ou eleve,lambda_shop,0.006016094668074
+Etudiant ou eleve,lambda_leisure,0.0247867620882349
+Etudiant ou eleve,stay_on_site_edu_hunger,3.878684756886931
+Etudiant ou eleve,stay_on_site_edu_shop,3.21780645496338
+Etudiant ou eleve,stay_on_site_edu_leisure,4.300255745108361
+Etudiant ou eleve,prob_student_afternoon_shift,0.104
+Etudiant ou eleve,prob_student_morning_halfday,0.566
+Etudiant ou eleve,edu_dep_mean_hour,7.231
+Etudiant ou eleve,edu_dep_std_hour,0.962
+Retraite,lambda_hunger,0.0497720176203568
+Retraite,lambda_shop,0.0115990014440953
+Retraite,lambda_leisure,0.047313378733578
+Personne au foyer,lambda_hunger,0.0785812282774385
+Personne au foyer,lambda_shop,0.0104202108473673
+Personne au foyer,lambda_leisure,0.0517759965158027
+Sans emploi,lambda_hunger,0.0583518644049849
+Sans emploi,lambda_shop,0.0032386665090965
+Sans emploi,lambda_leisure,0.0252943640591149
+ALL,stay_at_home_hunger,4.327617384328897
+ALL,stay_at_home_shop,1.809332436088204
+ALL,stay_at_home_leisure,3.259526375003412
+ALL,daylight_urge_hunger,2.177568067643653
+ALL,daylight_urge_leisure,2.0684081990701566
+ALL,simulation_seed,505.0
